@@ -79,7 +79,7 @@ The app will be available at [http://localhost:3000](http://localhost:3000).
 
 ## License
 
-This project is for educational and research purposes. Please see `LICENSE` (if present) for more details.
+This project is for educational and research purposes.
 
 ---
 
