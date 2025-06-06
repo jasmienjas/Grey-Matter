@@ -12,6 +12,7 @@ Grey Matter is a web application that explores how advanced AI models, specifica
 ## Getting Started
 
 ### Prerequisites
+
 - [Node.js](https://nodejs.org/) (v18 or newer recommended)
 - [pnpm](https://pnpm.io/) or [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
